@@ -1,0 +1,15 @@
+D:\KPI\.NET\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\KPI\.NET\BLL\bin\Debug\net6.0\BLL.dll
+D:\KPI\.NET\BLL\bin\Debug\net6.0\BLL.pdb
+D:\KPI\.NET\BLL\bin\Debug\net6.0\DAL.dll
+D:\KPI\.NET\BLL\bin\Debug\net6.0\DAL.pdb
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.dll
+D:\KPI\.NET\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\KPI\.NET\BLL\obj\Debug\net6.0\BLL.pdb
+D:\KPI\.NET\BLL\obj\Debug\net6.0\ref\BLL.dll

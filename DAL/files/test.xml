@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEntrant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entrant>
+    <Surname>asdoas</Surname>
+    <Name>asdas</Name>
+    <Patronymic>asdas</Patronymic>
+    <TestResults>
+      <TestResults key="sadda">322</TestResults>
+      <TestResults key="asdas">222</TestResults>
+      <TestResults key="apsodas">333</TestResults>
+    </TestResults>
+    <Specialities>
+      <Specialities>asdasodpas</Specialities>
+      <Specialities>asdopas</Specialities>
+    </Specialities>
+    <StudyForm>Budget</StudyForm>
+    <StudyLevel>Master</StudyLevel>
+  </Entrant>
+  <Entrant>
+    <Surname>aspodasopda</Surname>
+    <Name>asidpasopd</Name>
+    <Patronymic>asdoaspsda</Patronymic>
+    <TestResults>
+      <TestResults key="asldsaldk">233</TestResults>
+      <TestResults key="asda">222</TestResults>
+      <TestResults key="aspdas">333</TestResults>
+    </TestResults>
+    <Specialities>
+      <Specialities>asiodas</Specialities>
+      <Specialities>asidoas</Specialities>
+      <Specialities>asidsds</Specialities>
+    </Specialities>
+    <StudyForm>Contract</StudyForm>
+    <StudyLevel>PhD</StudyLevel>
+  </Entrant>
+</ArrayOfEntrant>

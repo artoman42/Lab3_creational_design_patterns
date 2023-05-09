@@ -1,0 +1,13 @@
+Surname: asdla;sd
+Name: asasdl;as
+Patronymic: apsdoasdpas
+StudyForm: Budget
+StudyLevel: Master
+TestResults:
+daospd: 23
+aspdpf: 34
+as[pdfsad: 44
+Specialities:
+asdpa
+fpda
+

@@ -1,0 +1,35 @@
+[
+  {
+    "surname": "asdasd",
+    "name": "asdasd",
+    "patronymic": "asdasd",
+    "testResults": {
+      "oisjdfoiasdio": 234,
+      "askdmd": 2356,
+      "sdamksd": 257
+    },
+    "specialities": [
+      "asdad",
+      "asds"
+    ],
+    "studyForm": 1,
+    "studyLevel": 1
+  },
+  {
+    "surname": "aslkdasd,;l,",
+    "name": "dls;d,sdl;",
+    "patronymic": "sdlsdfk",
+    "testResults": {
+      "lkoko": 34,
+      "lkml": 53,
+      "tioyyp": 567
+    },
+    "specialities": [
+      "klasdmals",
+      "sdlkmsad",
+      "aslkdmas;"
+    ],
+    "studyForm": 0,
+    "studyLevel": 2
+  }
+]
